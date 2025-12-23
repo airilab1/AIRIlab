@@ -1,5 +1,5 @@
 ---
-title: The Future of Urban Planning: How AIRIlab Is Transforming Zoning and Policy Visualizations
+title: "The Future of Urban Planning: How AIRIlab Is Transforming Zoning and Policy Visualizations"
 ---
 
 # A New Era for Urban Planning
